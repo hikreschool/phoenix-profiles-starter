@@ -9,6 +9,12 @@
 5. Passing data to next ViewController
 6. Displaying data to the next ViewController
 
+# Resources that can help with this challenge
+
+1. About TableViews https://www.youtube.com/watch?v=C36sb5sc6lE
+2. About AlertControllers https://www.youtube.com/watch?v=yVwQ7oWMxnk
+3. Passing data between Controllers https://www.youtube.com/watch?v=UVIQ7fkw_N8
+
 
 # Notes
 1. The Student and StudentData data models are already created for you
