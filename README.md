@@ -2,8 +2,8 @@
 
 # What Will You Learn
 
--Using Data Models
--Intro to UITableViewControllers
+-Using Data Models /n
+-Intro to UITableViewControllers /n
 -Intro to UIAlertControllers
 -Intro to Data source and delegate methods
 -Passing data to next ViewController
