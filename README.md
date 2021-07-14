@@ -21,7 +21,7 @@ The Second View Controller named as "DetailViewController" along with UIAlertCon
 
 # App Demo
  
- <img src="/obs-recording-2.0.gif" width="712" height="1396"/>
+ <img src="/app-challenge-2-week5.gif" width="712" height="1396"/>
 
 
 Copyright 2021 Hikre, Inc. Hikre School
