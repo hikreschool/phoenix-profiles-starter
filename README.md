@@ -16,8 +16,9 @@
 
 
 # Notes
-The Student and StudentData data models are already created for you
-The Second View Controller named as "DetailViewController" along with UIAlertController functionality ready to be used
+1. The Student and StudentData data models are already created for you
+2. The Second View Controller named as "DetailViewController" along with UIAlertController functionality ready to be used
+3. Follow the TODO order strictly and study the code made available for you already
 
 # App Demo
  
