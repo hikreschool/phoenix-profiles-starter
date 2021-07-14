@@ -2,7 +2,7 @@
 
 # What Will You Learn
 
-1. Using Data Models
+1. Using Data Models & More into UIKit
 2. Intro to UITableViewControllers
 3. Intro to UIAlertControllers
 4. Intro to Data source and delegate methods
