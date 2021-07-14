@@ -1,7 +1,7 @@
 # App Challenge Week 5 - Phoenix Profiles
 
 Download the starter project files as .zip and extract to your desktop or your folder of preference.
-Or you can go your Terminal or Commandline and copy paste: git clone https://github.com/hikreschool/phoenix-profiles-starter
+Or you can go your Terminal or Commandline and copy paste: _git clone https://github.com/hikreschool/phoenix-profiles-starter_
 
 # What Will You Learn
 
