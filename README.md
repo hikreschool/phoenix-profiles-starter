@@ -14,6 +14,7 @@
 1. About TableViews https://www.youtube.com/watch?v=C36sb5sc6lE
 2. About AlertControllers https://www.youtube.com/watch?v=yVwQ7oWMxnk
 3. Passing data between Controllers https://www.youtube.com/watch?v=UVIQ7fkw_N8
+4. Protocols & Delegates https://www.youtube.com/watch?v=tvAeAzAe3JM
 
 
 # Notes
